@@ -405,7 +405,7 @@ export default function LandingPage() {
       <section id="features" className="py-12 md:py-20 px-4 relative">
         <div className="max-w-7xl mx-auto">
           <div id="features-header" data-animate className={`text-center mb-8 md:mb-16 fade-in-up ${isVisible['features-header'] ? 'visible' : ''}`}>
-            <h2 className="text-2xl md:text-4xl lg:text-5xl font-bold mb-3 md:mb-4">Why Choose InterviewPro?</h2>
+            <h2 className="text-2xl md:text-4xl lg:text-5xl font-bold mb-3 md:mb-4">Why Choose Intervyo?</h2>
             <p className="text-gray-400 text-sm md:text-lg">Everything you need to ace your interview</p>
           </div>
 

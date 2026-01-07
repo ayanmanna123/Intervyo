@@ -55,7 +55,7 @@ const Footer = () => {
           </div>
 
           <div className="border-t border-white/10 pt-8 text-center text-gray-400">
-            <p>&copy; {new Date().getFullYear()} InterviewPro. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} Intervyo. All rights reserved.</p>
           </div>
         </div>
       </footer>)};
