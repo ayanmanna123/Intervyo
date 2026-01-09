@@ -77,6 +77,7 @@ const interviewSlice = createSlice({
 
       // Initialize performance from DB
       // Initialize performance from DB
+      // Initialize performance from DB
       if (action.payload?.performance) {
         state.performance = {
           ...state.performance,
