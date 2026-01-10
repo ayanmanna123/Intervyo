@@ -27,6 +27,7 @@ import ScrollToTop from './components/shared/ScrollToTop';
 import Footer from './components/shared/Footer';
 import TermsAndConditions from './pages/Terms';
 import PrivacyPolicy from './pages/Privacy';
+import AboutUs from './pages/AboutUs';
 
 function App() {
   return (
@@ -42,6 +43,7 @@ function App() {
         <Route path="/faq" element={<FAQ />} />
         <Route path="/privacy" element={<PrivacyPolicy />} />
         <Route path="/terms" element={<TermsAndConditions />} />
+        <Route path="/about" element={<AboutUs />} />
 
         <Route path="/domain-selection" element={<DomainSelection />} />
         <Route path="/leaderboard" element={<Leaderboard />} />
